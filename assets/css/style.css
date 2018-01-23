@@ -15,7 +15,7 @@ header {
     padding: 0px;
     border-bottom:2px solid #cccccc
 }
-#hello {
+#container {
     float: left;
     font-size: 38px;
     text-align: center;
